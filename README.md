@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- # xtreme-admin-lite-- >
 <!-- Heading of Template -->
 <h1>
@@ -64,3 +65,7 @@ If you're looking for the best NextJs templates across the web, we've curated a 
 <p>Facebook: <a href="https://www.facebook.com/wrappixel">https://www.facebook.com/wrappixel</a></p>
 <p>Twitter: <a href="https://twitter.com/wrappixel">https://twitter.com/wrappixel</a></p>
 <p>Medium: <a href="https://medium.com/wrappixel">https://medium.com/wrappixel</a></p>
+=======
+# nextJsDashboard
+nexts js admin dashboard
+>>>>>>> 55b19d69e20df8ff011280f7dda69ff078301858
